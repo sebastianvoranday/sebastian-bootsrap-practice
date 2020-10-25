@@ -1,3 +1,7 @@
+# Sebastian Oranday Bootstrap Practice
+
+Due 10/24/20
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.

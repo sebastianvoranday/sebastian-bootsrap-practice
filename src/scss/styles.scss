@@ -6,7 +6,43 @@
 // $link-hover-color: grey;
 // $font-family-sans-serif: "Helvetica Neue";
 
+.jumbotron {
+  font-family: 'Shadows Into Light';
+  font-size: larger;
+  color: white;
+  text-align: center;
+}
+
+.row {
+  font-family: 'Shadows Into Light';
+}
+
+#paper {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.footer {
+  margin-bottom: 0%;
+  text-align: center;
+  font-family: 'Shadows Into Light';
+}
+
+.nav-item a:hover {
+  text-decoration: underline;
+}
+
 // Import Bootstrap styles
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+.jumbotron {
+  background: url(../img/pirate-ship.jpg) no-repeat center;
+  background-size: cover;
+}
+
+#carousel {
+  position: relative;
+}
+
 
 // Import partials here
